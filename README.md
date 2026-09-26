@@ -1,53 +1,116 @@
 # Hi, I'm Akriti Kachroo 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&width=600&lines=Economics+%2B+Data+Analytics;Financial+Analytics+%7C+Market+Research;Turning+data+into+business+decisions)](https://git.io/typing-svg)
 
-**M.Sc. Economics (Data Analytics)** · Turning data into business decisions
-
-I work at the intersection of **economics and data**, with a focus on **Market Research**, **Financial Analytics**, and **Data Science**. I enjoy building end-to-end projects, from collecting and validating data to modelling it and explaining the results in plain business language.
-
-🔭 Currently working on: **Credit Risk Prediction** using Python and machine learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=M.Sc.+Economics+(Data+Analytics);Market+Research+%7C+Financial+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+R" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Skills
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+I'm pursuing an **M.Sc. in Economics (Data Analytics)** with one year of experience in **market research and advanced analytics** across healthcare, technology, and consumer goods.
 
-**Areas:** Financial statement & ratio analysis · Forecasting · Machine learning · Survey & market research · Data visualization
+I enjoy transforming complex datasets into business insights through statistical analysis, machine learning, and visualization.
 
----
-
-### 📌 Featured Projects
-
-| Project | What it does | Tools |
-| --- | --- | --- |
-| [**Explainable Unemployment Forecaster**](https://github.com/akritik12/Explainable-Unemployment-Forecaster) | Forecasts unemployment and explains which economic factors drive the predictions | Python, ML, Explainable AI |
-| [**Indian FMCG Financial Analysis**](https://github.com/akritik12/indian-fmcg-financial-analysis) | 5-year ratio and DuPont analysis of HUL, ITC, Dabur, Britannia and Marico, with an interactive Excel dashboard | Excel, Financial Modelling |
-| [**Credit Risk Prediction**](https://github.com/akritik12/credit-risk-prediction) | Predicts loan default risk to support lending decisions | Python, Machine Learning |
-
-### 📂 More Projects
-
-* [**Food Impact on Indians**](https://github.com/akritik12/Food--Impact-on--Indians-Market--Research): exploratory analysis and data-quality assessment of a 17,686-respondent diet and health survey, using PCA and chi-square tests in Orange Data Mining
+- Currently learning **Apache Spark** and **Big Data**
+- Building projects in **Python**, **SQL**, and **Power BI**
+- Interested in **Market Research**, **Consulting**, and **Business Analytics**
 
 ---
 
-### 🌱 Currently Learning
+## Tech Stack
 
-* Apache Spark
-* Big Data
-* Machine Learning
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SPSS-052FAD?logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+
+</p>
 
 ---
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=akritik12&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akritik12&layout=compact&hide_border=true)
 
-### 🤝 Connect with Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akritik12.github.io-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://akritik12.github.io/)
+### Explainable Unemployment Forecaster
+
+Machine learning model predicting unemployment using macroeconomic indicators with **SHAP explainability**.
+
+**Python • SHAP • Machine Learning**
+
+---
+
+### Indian FMCG Financial Analysis
+
+Five-year ratio analysis and DuPont analysis of HUL, ITC, Dabur, Britannia, and Marico.
+
+**Excel • Power BI**
+
+---
+
+### Credit Risk Prediction *(Coming Soon)*
+
+Logistic Regression model for creditworthiness prediction using financial indicators.
+
+**Python • Statistics**
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akritik12&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akritik12&layout=compact&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akritik12&theme=transparent"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+- Apache Spark
+- Big Data Analytics
+- Machine Learning
+- Financial Analytics
+
+---
+
+## Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/Akritik12">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> *"Turning data into decisions."*
