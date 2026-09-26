@@ -101,13 +101,9 @@ Logistic Regression model for creditworthiness prediction using financial indica
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akritik12.github.io-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://akritik12.github.io/)
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white"/>
-</a>
 
 </p>
 
