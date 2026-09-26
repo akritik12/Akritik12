@@ -1,8 +1,11 @@
 # Hi, I'm Akriti Kachroo 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&width=600&lines=Economics+%2B+Data+Analytics;Financial+Analytics+%7C+Market+Research;Turning+data+into+business+decisions)](https://git.io/typing-svg)
 
 **M.Sc. Economics (Data Analytics)** · Turning data into business decisions
 
 I work at the intersection of **economics and data**, with a focus on **Market Research**, **Financial Analytics**, and **Data Science**. I enjoy building end-to-end projects, from collecting and validating data to modelling it and explaining the results in plain business language.
+
+🔭 Currently working on: **Credit Risk Prediction** using Python and machine learning
 
 ---
 
@@ -40,6 +43,9 @@ I work at the intersection of **economics and data**, with a focus on **Market R
 * Machine Learning
 
 ---
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=akritik12&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akritik12&layout=compact&hide_border=true)
 
 ### 🤝 Connect with Me
 
