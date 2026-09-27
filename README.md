@@ -8,9 +8,10 @@
 
 ## About Me
 
-I'm pursuing an **M.Sc. in Economics (Data Analytics)** with one year of experience in **market research and advanced analytics** across healthcare, technology, and consumer goods.
+I'm pursuing an  **M.Sc. in Economics (Data Analytics)** and have one year of experience in **market research and advanced analytics** across the healthcare, technology, and consumer goods sectors. I hold an **M.A. in Public Health (Health Policy, Economics & Finance)** and a  **B.A. in Economics**, giving me an interdisciplinary foundation in economics, policy, and data-driven decision-making.
 
-I enjoy transforming complex datasets into business insights through statistical analysis, machine learning, and visualization.
+I enjoy transforming complex datasets into actionable business insights through statistical analysis, machine learning, and data visualization.
+My interests lie in applying analytics to solve real-world business problems, uncover consumer and market trends, and support evidence-based strategic decisions.
 
 - Currently learning **Apache Spark** and **Big Data**
 - Building projects in **Python**, **SQL**, and **Power BI**
